@@ -1,6 +1,6 @@
-# Proyecto: **sigo_gue** - Automatización de Pruebas Web
+# Proyecto: **sigo** - Automatización de Pruebas Web
 
-Este proyecto es una automatización de pruebas para validar flujos de inicio de sesión y registro en una aplicación web, utilizando **Java**, **Maven**, **Selenium WebDriver** y **Cucumber**.
+Este proyecto es un reto de automatización de pruebas para validar flujos de inicio de sesión y registro en una aplicación web, utilizando **Java**, **Maven**, **Selenium WebDriver** y **Cucumber**.
 
 ## 📚 Tecnologías Utilizadas
 
@@ -42,7 +42,8 @@ Este proyecto es una automatización de pruebas para validar flujos de inicio de
 ┗ 📜 README.md                 # Documentación del proyecto
 
 ```
-
+## Author ✒️👨🏻‍💻
+## ©️ Cristian Guerra Gómez – Project Creator – criguex@gmail.com
 
 
 ## Author ?????????
