@@ -16,33 +16,34 @@ Este proyecto es una automatizaciÃ³n de pruebas para validar flujos de inicio de
 
 ```bash
 ğŸ“¦ sigo_gue
-â”?ğŸ“‚ src
-â”?â”?ğŸ“‚ main
-â”?â”?â”?ğŸ“‚ java
-â”?â”?â”?â”?ğŸ“‚ drivers             # ConfiguraciÃ³n de WebDriver y manejo de navegador (ej: ChromeDriver)
-â”?â”?â”?â”?ğŸ“‚ hooks               # Hooks de Cucumber para acciones Before/After
-â”?â”?â”?â”?ğŸ“‚ locators            # Localizadores centralizados de elementos web
-â”?â”?â”?â”?ğŸ“‚ pages               # Page Object Models que representan pantallas de la aplicaciÃ³n
-â”?â”?â”?â”?ğŸ“‚ test_data           # Datos estÃ¡ticos utilizados para pruebas
-â”?â”?â”?â”?ğŸ“‚ utils               # Clases utilitarias con mÃ©todos reutilizables
-â”?â”?ğŸ“‚ test
-â”?â”?â”?ğŸ“‚ java
-â”?â”?â”?â”?ğŸ“‚ runners             # Clases Runner que ejecutan pruebas especÃ­ficas
-â”?â”?â”?â”?ğŸ“‚ stepdefinitions     # Implementaciones de pasos de Gherkin en Java
-â”?â”?â”?   â”?ğŸ“‚ login            # StepDefinitions del flujo de login
-â”?â”?â”?   â”?ğŸ“‚ register         # StepDefinitions del flujo de registro
-â”?â”?â”?ğŸ“‚ resources
-â”?â”?â”?â”?ğŸ“‚ Features            # Archivos `.feature` escritos en Gherkin
-â”?â”?â”?   â”?ğŸ“œ Login.feature    # Escenarios de pruebas para login
-â”?â”?â”?   â”?ğŸ“œ Register.feature # Escenarios de pruebas para registro
-â”?ğŸ“‚ target                    # Archivos generados por Maven (compilados, reportes, etc.)
-â”?ğŸ“œ config.properties         # Configuraciones del proyecto
-â”?ğŸ“œ pom.xml                   # Archivo Maven (dependencias, plugins)
-â”?ğŸ“œ .gitignore                # ConfiguraciÃ³n para ignorar archivos en Git
-â”?ğŸ“œ README.md                 # DocumentaciÃ³n del proyecto
+â”£ ğŸ“‚ src
+â”ƒ â”£ ğŸ“‚ main
+â”ƒ â”ƒ â”£ ğŸ“‚ java
+â”ƒ â”ƒ â”ƒ â”£ ğŸ“‚ drivers             # ConfiguraciÃ³n de WebDriver y manejo de navegador (ej: ChromeDriver)
+â”ƒ â”ƒ â”ƒ â”£ ğŸ“‚ hooks               # Hooks de Cucumber para acciones Before/After
+â”ƒ â”ƒ â”ƒ â”£ ğŸ“‚ locators            # Localizadores centralizados de elementos web
+â”ƒ â”ƒ â”ƒ â”£ ğŸ“‚ pages               # Page Object Models que representan pantallas de la aplicaciÃ³n
+â”ƒ â”ƒ â”ƒ â”£ ğŸ“‚ test_data           # Datos estÃ¡ticos utilizados para pruebas
+â”ƒ â”ƒ â”ƒ â”— ğŸ“‚ utils               # Clases utilitarias con mÃ©todos reutilizables
+â”ƒ â”£ ğŸ“‚ test
+â”ƒ â”ƒ â”£ ğŸ“‚ java
+â”ƒ â”ƒ â”ƒ â”£ ğŸ“‚ runners             # Clases Runner que ejecutan pruebas especÃ­ficas
+â”ƒ â”ƒ â”ƒ â”— ğŸ“‚ stepdefinitions     # Implementaciones de pasos de Gherkin en Java
+â”ƒ â”ƒ â”ƒ    â”£ ğŸ“‚ login            # StepDefinitions del flujo de login
+â”ƒ â”ƒ â”ƒ    â”— ğŸ“‚ register         # StepDefinitions del flujo de registro
+â”ƒ â”ƒ â”£ ğŸ“‚ resources
+â”ƒ â”ƒ â”ƒ â”— ğŸ“‚ Features            # Archivos `.feature` escritos en Gherkin
+â”ƒ â”ƒ â”ƒ    â”£ ğŸ“œ Login.feature    # Escenarios de pruebas para login
+â”ƒ â”ƒ â”ƒ    â”— ğŸ“œ Register.feature # Escenarios de pruebas para registro
+â”£ ğŸ“‚ target                    # Archivos generados por Maven (compilados, reportes, etc.)
+â”£ ğŸ“œ config.properties         # Configuraciones del proyecto
+â”£ ğŸ“œ pom.xml                   # Archivo Maven (dependencias, plugins)
+â”£ ğŸ“œ .gitignore                # ConfiguraciÃ³n para ignorar archivos en Git
+â”— ğŸ“œ README.md                 # DocumentaciÃ³n del proyecto
+
 ```
 
 
 
 ## Author ?????????
-## ?? Cristian Guerra G¨®mez ¨C Project Creator ¨C criguex@gmail.com
+## ?? Cristian Guerra GÂ¨Â®mez Â¨C Project Creator Â¨C criguex@gmail.com
