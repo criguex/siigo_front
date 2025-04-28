@@ -45,6 +45,3 @@ Este proyecto es un reto de automatización de pruebas para validar flujos de in
 ## Author ✒️👨🏻‍💻
 ## ©️ Cristian Guerra Gómez – Project Creator – criguex@gmail.com
 
-
-## Author ?????????
-## ?? Cristian Guerra G¨®mez ¨C Project Creator ¨C criguex@gmail.com
